@@ -22,7 +22,6 @@ export function Hero({ onClickToDemo, t }: HeroProps) {
       )}
     >
       {/* Hero image */}
-
       <Image
         src="/assets/images/dokter-hero-mobile.webp"
         width={300}
